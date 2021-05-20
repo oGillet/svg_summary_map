@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "heavy_ash_accumulation",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Heavy ashfall accumulations", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": 1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -61.15932205814385, 13.34468109879178, 0.0 ], [ -61.188523609722978, 13.38557000904844, 0.0 ], [ -61.216292707914029, 13.360701163143681, 0.0 ], [ -61.240651515340353, 13.311072473167821, 0.0 ], [ -61.242602855170681, 13.30029515347579, 0.0 ], [ -61.173421413854328, 13.286498334569201, 0.0 ], [ -61.15932205814385, 13.34468109879178, 0.0 ] ] ] } }
+]
+}
